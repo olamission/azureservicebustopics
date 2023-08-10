@@ -35,7 +35,7 @@ client = new ServiceBusClient("Endpoint=sb://azservicebustopics122333.servicebus
 
 // create a processor that we can use to process the messages
 // TODO: Replace the <TOPIC-NAME> and <SUBSCRIPTION-NAME> placeholders
-processor = client.CreateProcessor("mytopic", "sub", new ServiceBusProcessorOptions());
+processor = client.CreateProcessor("my-topic", "sub", new ServiceBusProcessorOptions());
 
 try
 {
