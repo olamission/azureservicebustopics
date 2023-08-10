@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "s7siYlYa9qIDzKKbV/Qlrrt3/MWwWEf91I6RQpHuCAc8QGLfbDJmfFriDWpK1DUevIxIrTXKhnyrcG02yvrePw==",
+  "dgSpecHash": "YKRlZXtCdh+82BuLwbbkNStkRPy6kWMk9J4PXfTUBzn3MlUJFT309+DcsbFX3X94j8P8xNvvzomD7TxhIlK6/Q==",
   "success": true,
-  "projectFilePath": "/workspace/azureservicebustopics/azureservicebustopics.csproj",
+  "projectFilePath": "/workspace/azureservicebustopics/send/send.csproj",
   "expectedPackageFiles": [
     "/home/gitpod/.nuget/packages/azure.core/1.34.0/azure.core.1.34.0.nupkg.sha512",
     "/home/gitpod/.nuget/packages/azure.core.amqp/1.3.0/azure.core.amqp.1.3.0.nupkg.sha512",

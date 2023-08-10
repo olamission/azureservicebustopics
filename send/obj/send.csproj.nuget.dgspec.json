@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/workspace/azureservicebustopics/azureservicebustopics.csproj": {}
+    "/workspace/azureservicebustopics/send/send.csproj": {}
   },
   "projects": {
-    "/workspace/azureservicebustopics/azureservicebustopics.csproj": {
+    "/workspace/azureservicebustopics/send/send.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspace/azureservicebustopics/azureservicebustopics.csproj",
-        "projectName": "azureservicebustopics",
-        "projectPath": "/workspace/azureservicebustopics/azureservicebustopics.csproj",
+        "projectUniqueName": "/workspace/azureservicebustopics/send/send.csproj",
+        "projectName": "send",
+        "projectPath": "/workspace/azureservicebustopics/send/send.csproj",
         "packagesPath": "/home/gitpod/.nuget/packages/",
-        "outputPath": "/workspace/azureservicebustopics/obj/",
+        "outputPath": "/workspace/azureservicebustopics/send/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/gitpod/.nuget/NuGet/NuGet.Config"
